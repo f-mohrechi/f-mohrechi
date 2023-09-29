@@ -57,7 +57,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/f-mohrechi/f-mohrechi/output/snake.svg" alt="Snake animation" />
-
-###
