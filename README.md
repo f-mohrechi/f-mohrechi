@@ -25,7 +25,7 @@ Most of my professional work lives in private repositories, so my public repos h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 
-TanStack React Query · Axios · next-intl · Vitest · Ant Design
+TanStack React Query · Axios · next-intl · Ant Design
 
 ## Selected public projects
 
